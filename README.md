@@ -11,3 +11,7 @@ this tool generates fake (BTC,LTC,USDT,ETH,TRX,BNB,TWT)
 text me in telegram to take the btc flash sender 
 
 # my telegram:@A_friend99 
+
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlan50iq%2FBtc-flash-sender.git&label=Visitors&countColor=%2337d67a&style=flat&labelStyle=upper)
