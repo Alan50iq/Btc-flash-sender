@@ -46,6 +46,8 @@ this tool generates any fake cryptocoin you want
 
 text me in telegram to take the btc flash sender 
 
+the tool 100% safe and working 
+
 # my telegram:@A_friend99 
 
 
