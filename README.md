@@ -52,12 +52,9 @@ this tool generates any fake cryptocoin you want
 
 **text me in telegram if you need the btc flash sender**
 
-------
-
-
-
-
 # my telegram:@A_friend99 
+
+---------
 
 
 
