@@ -42,11 +42,20 @@ This tool helps it's users to send fake cryptocurrency to any node it's 100% saf
 
 
 
-this tool generates any fake cryptocoin you want
+this tool generates any fake cryptocoin you want  
 
-# text me in telegram if you need the btc flash sender 
+------
 
-the tool 100% safe and working 
+**the tool 100% safe and working** 
+
+-------
+
+**text me in telegram if you need the btc flash sender**
+
+------
+
+
+
 
 # my telegram:@A_friend99 
 
